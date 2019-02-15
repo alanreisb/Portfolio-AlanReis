@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Portfolio-AlanReis/precache-manifest.a0a421fea53ec7eac857a43d57217489.js"
+  "/devalanreis/precache-manifest.ac4f5eecd29c7f54eff171a237ace9b0.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Portfolio-AlanReis/index.html", {
+workbox.routing.registerNavigationRoute("/devalanreis/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
