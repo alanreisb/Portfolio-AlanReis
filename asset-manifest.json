@@ -1,10 +1,10 @@
 {
   "main.css": "/Portfolio-AlanReis/static/css/main.d5c51878.chunk.css",
-  "main.js": "/Portfolio-AlanReis/static/js/main.0548ec02.chunk.js",
-  "main.js.map": "/Portfolio-AlanReis/static/js/main.0548ec02.chunk.js.map",
+  "main.js": "/Portfolio-AlanReis/static/js/main.55034fc4.chunk.js",
+  "main.js.map": "/Portfolio-AlanReis/static/js/main.55034fc4.chunk.js.map",
   "static/css/1.d3ca4d5a.chunk.css": "/Portfolio-AlanReis/static/css/1.d3ca4d5a.chunk.css",
-  "static/js/1.de973b4a.chunk.js": "/Portfolio-AlanReis/static/js/1.de973b4a.chunk.js",
-  "static/js/1.de973b4a.chunk.js.map": "/Portfolio-AlanReis/static/js/1.de973b4a.chunk.js.map",
+  "static/js/1.15098415.chunk.js": "/Portfolio-AlanReis/static/js/1.15098415.chunk.js",
+  "static/js/1.15098415.chunk.js.map": "/Portfolio-AlanReis/static/js/1.15098415.chunk.js.map",
   "runtime~main.js": "/Portfolio-AlanReis/static/js/runtime~main.41626a3d.js",
   "runtime~main.js.map": "/Portfolio-AlanReis/static/js/runtime~main.41626a3d.js.map",
   "static/media/seta.svg": "/Portfolio-AlanReis/static/media/seta.aa088fea.svg",
@@ -20,9 +20,9 @@
   "static/media/habilidades.svg": "/Portfolio-AlanReis/static/media/habilidades.ca9b18f4.svg",
   "static/media/objetivo.svg": "/Portfolio-AlanReis/static/media/objetivo.580fb291.svg",
   "static/media/bgWave.svg": "/Portfolio-AlanReis/static/media/bgWave.dd8829a5.svg",
-  "static/css/main.d5c51878.chunk.css.map": "/Portfolio-AlanReis/static/css/main.d5c51878.chunk.css.map",
   "static/css/1.d3ca4d5a.chunk.css.map": "/Portfolio-AlanReis/static/css/1.d3ca4d5a.chunk.css.map",
+  "static/css/main.d5c51878.chunk.css.map": "/Portfolio-AlanReis/static/css/main.d5c51878.chunk.css.map",
   "index.html": "/Portfolio-AlanReis/index.html",
-  "precache-manifest.a8918ac2ecd13c47ad57f75e4e90257c.js": "/Portfolio-AlanReis/precache-manifest.a8918ac2ecd13c47ad57f75e4e90257c.js",
+  "precache-manifest.1508ab130ff28c0b42fd91878b21a88e.js": "/Portfolio-AlanReis/precache-manifest.1508ab130ff28c0b42fd91878b21a88e.js",
   "service-worker.js": "/Portfolio-AlanReis/service-worker.js"
 }
