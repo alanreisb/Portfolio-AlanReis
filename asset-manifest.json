@@ -1,10 +1,10 @@
 {
   "main.css": "/devalanreis/static/css/main.74533d1f.chunk.css",
-  "main.js": "/devalanreis/static/js/main.5c7965da.chunk.js",
-  "main.js.map": "/devalanreis/static/js/main.5c7965da.chunk.js.map",
+  "main.js": "/devalanreis/static/js/main.edba76a6.chunk.js",
+  "main.js.map": "/devalanreis/static/js/main.edba76a6.chunk.js.map",
   "static/css/1.f6a1ae28.chunk.css": "/devalanreis/static/css/1.f6a1ae28.chunk.css",
-  "static/js/1.6612ac80.chunk.js": "/devalanreis/static/js/1.6612ac80.chunk.js",
-  "static/js/1.6612ac80.chunk.js.map": "/devalanreis/static/js/1.6612ac80.chunk.js.map",
+  "static/js/1.0cdc9737.chunk.js": "/devalanreis/static/js/1.0cdc9737.chunk.js",
+  "static/js/1.0cdc9737.chunk.js.map": "/devalanreis/static/js/1.0cdc9737.chunk.js.map",
   "runtime~main.js": "/devalanreis/static/js/runtime~main.620c0f6d.js",
   "runtime~main.js.map": "/devalanreis/static/js/runtime~main.620c0f6d.js.map",
   "static/media/seta.svg": "/devalanreis/static/media/seta.aa088fea.svg",
@@ -23,6 +23,6 @@
   "static/css/main.74533d1f.chunk.css.map": "/devalanreis/static/css/main.74533d1f.chunk.css.map",
   "static/css/1.f6a1ae28.chunk.css.map": "/devalanreis/static/css/1.f6a1ae28.chunk.css.map",
   "index.html": "/devalanreis/index.html",
-  "precache-manifest.d72f04bcb1085656c9a40329ca16792b.js": "/devalanreis/precache-manifest.d72f04bcb1085656c9a40329ca16792b.js",
+  "precache-manifest.e0ad3ea27dd6bccddb4f1c7c74bf6e83.js": "/devalanreis/precache-manifest.e0ad3ea27dd6bccddb4f1c7c74bf6e83.js",
   "service-worker.js": "/devalanreis/service-worker.js"
 }
