@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/Portfolio-AlanReis/static/media/jquery.a3af0655.png"
   },
   {
-    "revision": "55034fc46389e9f8ba74",
+    "revision": "e877bc199c63445db031",
     "url": "/Portfolio-AlanReis/static/css/main.d5c51878.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = [
     "url": "/Portfolio-AlanReis/static/media/objetivo.580fb291.svg"
   },
   {
-    "revision": "150984154115fb08276b",
-    "url": "/Portfolio-AlanReis/static/js/1.15098415.chunk.js"
+    "revision": "6baa92418fd679dd1c3c",
+    "url": "/Portfolio-AlanReis/static/js/1.6baa9241.chunk.js"
   },
   {
     "revision": "41626a3d0c59e23ee6f3",
@@ -36,8 +36,8 @@ self.__precacheManifest = [
     "url": "/Portfolio-AlanReis/static/media/react.d14e4fd3.png"
   },
   {
-    "revision": "55034fc46389e9f8ba74",
-    "url": "/Portfolio-AlanReis/static/js/main.55034fc4.chunk.js"
+    "revision": "e877bc199c63445db031",
+    "url": "/Portfolio-AlanReis/static/js/main.e877bc19.chunk.js"
   },
   {
     "revision": "826879c3383772b241b3c337b8da04eb",
@@ -68,11 +68,11 @@ self.__precacheManifest = [
     "url": "/Portfolio-AlanReis/static/media/habilidades.ca9b18f4.svg"
   },
   {
-    "revision": "150984154115fb08276b",
+    "revision": "6baa92418fd679dd1c3c",
     "url": "/Portfolio-AlanReis/static/css/1.d3ca4d5a.chunk.css"
   },
   {
-    "revision": "4de2c7145c4fa034164bcbf0df7d60bc",
+    "revision": "e143e0972cc75ff4fc21a982fc3eee0b",
     "url": "/Portfolio-AlanReis/index.html"
   }
 ];
