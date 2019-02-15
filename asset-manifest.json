@@ -1,7 +1,7 @@
 {
   "main.css": "/Portfolio-AlanReis/static/css/main.d5c51878.chunk.css",
-  "main.js": "/Portfolio-AlanReis/static/js/main.1e92400b.chunk.js",
-  "main.js.map": "/Portfolio-AlanReis/static/js/main.1e92400b.chunk.js.map",
+  "main.js": "/Portfolio-AlanReis/static/js/main.0548ec02.chunk.js",
+  "main.js.map": "/Portfolio-AlanReis/static/js/main.0548ec02.chunk.js.map",
   "static/css/1.d3ca4d5a.chunk.css": "/Portfolio-AlanReis/static/css/1.d3ca4d5a.chunk.css",
   "static/js/1.de973b4a.chunk.js": "/Portfolio-AlanReis/static/js/1.de973b4a.chunk.js",
   "static/js/1.de973b4a.chunk.js.map": "/Portfolio-AlanReis/static/js/1.de973b4a.chunk.js.map",
@@ -23,6 +23,6 @@
   "static/css/main.d5c51878.chunk.css.map": "/Portfolio-AlanReis/static/css/main.d5c51878.chunk.css.map",
   "static/css/1.d3ca4d5a.chunk.css.map": "/Portfolio-AlanReis/static/css/1.d3ca4d5a.chunk.css.map",
   "index.html": "/Portfolio-AlanReis/index.html",
-  "precache-manifest.14ce6a8b3e2460d7748a936f717f6f5d.js": "/Portfolio-AlanReis/precache-manifest.14ce6a8b3e2460d7748a936f717f6f5d.js",
+  "precache-manifest.a8918ac2ecd13c47ad57f75e4e90257c.js": "/Portfolio-AlanReis/precache-manifest.a8918ac2ecd13c47ad57f75e4e90257c.js",
   "service-worker.js": "/Portfolio-AlanReis/service-worker.js"
 }
