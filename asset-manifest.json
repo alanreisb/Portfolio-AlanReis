@@ -1,7 +1,7 @@
 {
   "main.css": "/Portfolio-AlanReis/static/css/main.d5c51878.chunk.css",
-  "main.js": "/Portfolio-AlanReis/static/js/main.e877bc19.chunk.js",
-  "main.js.map": "/Portfolio-AlanReis/static/js/main.e877bc19.chunk.js.map",
+  "main.js": "/Portfolio-AlanReis/static/js/main.50c257fe.chunk.js",
+  "main.js.map": "/Portfolio-AlanReis/static/js/main.50c257fe.chunk.js.map",
   "static/css/1.d3ca4d5a.chunk.css": "/Portfolio-AlanReis/static/css/1.d3ca4d5a.chunk.css",
   "static/js/1.6baa9241.chunk.js": "/Portfolio-AlanReis/static/js/1.6baa9241.chunk.js",
   "static/js/1.6baa9241.chunk.js.map": "/Portfolio-AlanReis/static/js/1.6baa9241.chunk.js.map",
@@ -20,9 +20,9 @@
   "static/media/habilidades.svg": "/Portfolio-AlanReis/static/media/habilidades.ca9b18f4.svg",
   "static/media/objetivo.svg": "/Portfolio-AlanReis/static/media/objetivo.580fb291.svg",
   "static/media/bgWave.svg": "/Portfolio-AlanReis/static/media/bgWave.dd8829a5.svg",
-  "static/css/1.d3ca4d5a.chunk.css.map": "/Portfolio-AlanReis/static/css/1.d3ca4d5a.chunk.css.map",
   "static/css/main.d5c51878.chunk.css.map": "/Portfolio-AlanReis/static/css/main.d5c51878.chunk.css.map",
+  "static/css/1.d3ca4d5a.chunk.css.map": "/Portfolio-AlanReis/static/css/1.d3ca4d5a.chunk.css.map",
   "index.html": "/Portfolio-AlanReis/index.html",
-  "precache-manifest.4c869382eaea6df4f208b0182407813a.js": "/Portfolio-AlanReis/precache-manifest.4c869382eaea6df4f208b0182407813a.js",
+  "precache-manifest.802761deeada50d7868e06fac21f1d6d.js": "/Portfolio-AlanReis/precache-manifest.802761deeada50d7868e06fac21f1d6d.js",
   "service-worker.js": "/Portfolio-AlanReis/service-worker.js"
 }
