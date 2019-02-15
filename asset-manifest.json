@@ -1,10 +1,10 @@
 {
   "main.css": "/Portfolio-AlanReis/static/css/main.d5c51878.chunk.css",
-  "main.js": "/Portfolio-AlanReis/static/js/main.1e92400b.chunk.js",
-  "main.js.map": "/Portfolio-AlanReis/static/js/main.1e92400b.chunk.js.map",
+  "main.js": "/Portfolio-AlanReis/static/js/main.e877bc19.chunk.js",
+  "main.js.map": "/Portfolio-AlanReis/static/js/main.e877bc19.chunk.js.map",
   "static/css/1.d3ca4d5a.chunk.css": "/Portfolio-AlanReis/static/css/1.d3ca4d5a.chunk.css",
-  "static/js/1.de973b4a.chunk.js": "/Portfolio-AlanReis/static/js/1.de973b4a.chunk.js",
-  "static/js/1.de973b4a.chunk.js.map": "/Portfolio-AlanReis/static/js/1.de973b4a.chunk.js.map",
+  "static/js/1.6baa9241.chunk.js": "/Portfolio-AlanReis/static/js/1.6baa9241.chunk.js",
+  "static/js/1.6baa9241.chunk.js.map": "/Portfolio-AlanReis/static/js/1.6baa9241.chunk.js.map",
   "runtime~main.js": "/Portfolio-AlanReis/static/js/runtime~main.41626a3d.js",
   "runtime~main.js.map": "/Portfolio-AlanReis/static/js/runtime~main.41626a3d.js.map",
   "static/media/seta.svg": "/Portfolio-AlanReis/static/media/seta.aa088fea.svg",
@@ -23,6 +23,6 @@
   "static/css/main.d5c51878.chunk.css.map": "/Portfolio-AlanReis/static/css/main.d5c51878.chunk.css.map",
   "static/css/1.d3ca4d5a.chunk.css.map": "/Portfolio-AlanReis/static/css/1.d3ca4d5a.chunk.css.map",
   "index.html": "/Portfolio-AlanReis/index.html",
-  "precache-manifest.14ce6a8b3e2460d7748a936f717f6f5d.js": "/Portfolio-AlanReis/precache-manifest.14ce6a8b3e2460d7748a936f717f6f5d.js",
+  "precache-manifest.4c869382eaea6df4f208b0182407813a.js": "/Portfolio-AlanReis/precache-manifest.4c869382eaea6df4f208b0182407813a.js",
   "service-worker.js": "/Portfolio-AlanReis/service-worker.js"
 }
