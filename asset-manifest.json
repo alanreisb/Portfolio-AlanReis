@@ -1,7 +1,7 @@
 {
   "main.css": "/devalanreis/static/css/main.4107bf38.chunk.css",
-  "main.js": "/devalanreis/static/js/main.853b831f.chunk.js",
-  "main.js.map": "/devalanreis/static/js/main.853b831f.chunk.js.map",
+  "main.js": "/devalanreis/static/js/main.508cb427.chunk.js",
+  "main.js.map": "/devalanreis/static/js/main.508cb427.chunk.js.map",
   "static/css/1.de930a5e.chunk.css": "/devalanreis/static/css/1.de930a5e.chunk.css",
   "static/js/1.07e390d8.chunk.js": "/devalanreis/static/js/1.07e390d8.chunk.js",
   "static/js/1.07e390d8.chunk.js.map": "/devalanreis/static/js/1.07e390d8.chunk.js.map",
@@ -22,6 +22,6 @@
   "static/css/main.4107bf38.chunk.css.map": "/devalanreis/static/css/main.4107bf38.chunk.css.map",
   "static/css/1.de930a5e.chunk.css.map": "/devalanreis/static/css/1.de930a5e.chunk.css.map",
   "index.html": "/devalanreis/index.html",
-  "precache-manifest.83eb48121f5eb801fb78def74bbd26ad.js": "/devalanreis/precache-manifest.83eb48121f5eb801fb78def74bbd26ad.js",
+  "precache-manifest.047caf629ef0c7f084d4492315f32c4d.js": "/devalanreis/precache-manifest.047caf629ef0c7f084d4492315f32c4d.js",
   "service-worker.js": "/devalanreis/service-worker.js"
 }
