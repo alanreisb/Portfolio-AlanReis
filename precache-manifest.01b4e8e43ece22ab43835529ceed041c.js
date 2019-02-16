@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "826879c3383772b241b3c337b8da04eb",
-    "url": "/devalanreis/static/media/csharp.826879c3.png"
+    "revision": "994977c48fde58ac674a2d05ba5a5efb",
+    "url": "/devalanreis/static/media/nodejs.994977c4.png"
   },
   {
-    "revision": "1b356b2b6ce35f9f4b94",
-    "url": "/devalanreis/static/css/main.57e64fc6.chunk.css"
+    "revision": "efb889ef78f6a6e3db10",
+    "url": "/devalanreis/static/css/main.4a80c63f.chunk.css"
   },
   {
     "revision": "580fb2911444ee60d516546ddd001ba7",
     "url": "/devalanreis/static/media/objetivo.580fb291.svg"
   },
   {
-    "revision": "63b634c80ff0f24e12a3",
-    "url": "/devalanreis/static/js/1.63b634c8.chunk.js"
+    "revision": "07e390d806a4a6267bb5",
+    "url": "/devalanreis/static/js/1.07e390d8.chunk.js"
   },
   {
     "revision": "620c0f6d1b2a9944b0d7",
@@ -24,10 +24,6 @@ self.__precacheManifest = [
     "url": "/devalanreis/static/media/seta.aa088fea.svg"
   },
   {
-    "revision": "dd8829a52b58730ccb18a138b3d92bfa",
-    "url": "/devalanreis/static/media/bgWave.dd8829a5.svg"
-  },
-  {
     "revision": "d14e4fd3c8b856f05612643d6773e497",
     "url": "/devalanreis/static/media/react.d14e4fd3.png"
   },
@@ -36,12 +32,12 @@ self.__precacheManifest = [
     "url": "/devalanreis/static/media/jquery.a3af0655.png"
   },
   {
-    "revision": "1b356b2b6ce35f9f4b94",
-    "url": "/devalanreis/static/js/main.1b356b2b.chunk.js"
+    "revision": "826879c3383772b241b3c337b8da04eb",
+    "url": "/devalanreis/static/media/csharp.826879c3.png"
   },
   {
-    "revision": "994977c48fde58ac674a2d05ba5a5efb",
-    "url": "/devalanreis/static/media/nodejs.994977c4.png"
+    "revision": "efb889ef78f6a6e3db10",
+    "url": "/devalanreis/static/js/main.efb889ef.chunk.js"
   },
   {
     "revision": "30f627a1db56e7a9b96729d516f82879",
@@ -68,11 +64,11 @@ self.__precacheManifest = [
     "url": "/devalanreis/static/media/habilidades.ca9b18f4.svg"
   },
   {
-    "revision": "63b634c80ff0f24e12a3",
-    "url": "/devalanreis/static/css/1.f6a1ae28.chunk.css"
+    "revision": "07e390d806a4a6267bb5",
+    "url": "/devalanreis/static/css/1.de930a5e.chunk.css"
   },
   {
-    "revision": "af08cad7c8f7748c75414284a07f098d",
+    "revision": "9211155ef59f4159555f3ec6874434d6",
     "url": "/devalanreis/index.html"
   }
 ];
