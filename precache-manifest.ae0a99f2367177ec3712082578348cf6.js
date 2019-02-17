@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/devalanreis/static/media/nodejs.994977c4.png"
   },
   {
-    "revision": "508cb4279724ae0f7432",
+    "revision": "570f2ad3176de4c2f06e",
     "url": "/devalanreis/static/css/main.4107bf38.chunk.css"
   },
   {
@@ -36,8 +36,8 @@ self.__precacheManifest = [
     "url": "/devalanreis/static/media/csharp.826879c3.png"
   },
   {
-    "revision": "508cb4279724ae0f7432",
-    "url": "/devalanreis/static/js/main.508cb427.chunk.js"
+    "revision": "570f2ad3176de4c2f06e",
+    "url": "/devalanreis/static/js/main.570f2ad3.chunk.js"
   },
   {
     "revision": "30f627a1db56e7a9b96729d516f82879",
@@ -68,7 +68,7 @@ self.__precacheManifest = [
     "url": "/devalanreis/static/css/1.de930a5e.chunk.css"
   },
   {
-    "revision": "744e2cc78fd88486cc7751ad3f721a91",
+    "revision": "1576f4a6de905beb17cc035e5805d6d0",
     "url": "/devalanreis/index.html"
   }
 ];
