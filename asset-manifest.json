@@ -1,7 +1,7 @@
 {
   "main.css": "/devalanreis/static/css/main.9a368f20.chunk.css",
-  "main.js": "/devalanreis/static/js/main.774c54ca.chunk.js",
-  "main.js.map": "/devalanreis/static/js/main.774c54ca.chunk.js.map",
+  "main.js": "/devalanreis/static/js/main.795472ca.chunk.js",
+  "main.js.map": "/devalanreis/static/js/main.795472ca.chunk.js.map",
   "static/css/1.d3ca4d5a.chunk.css": "/devalanreis/static/css/1.d3ca4d5a.chunk.css",
   "static/js/1.7e224cd0.chunk.js": "/devalanreis/static/js/1.7e224cd0.chunk.js",
   "static/js/1.7e224cd0.chunk.js.map": "/devalanreis/static/js/1.7e224cd0.chunk.js.map",
@@ -21,9 +21,9 @@
   "static/media/habilidades.svg": "/devalanreis/static/media/habilidades.ca9b18f4.svg",
   "static/media/objetivo.svg": "/devalanreis/static/media/objetivo.580fb291.svg",
   "static/media/fechar.svg": "/devalanreis/static/media/fechar.0b80ad50.svg",
-  "static/css/1.d3ca4d5a.chunk.css.map": "/devalanreis/static/css/1.d3ca4d5a.chunk.css.map",
   "static/css/main.9a368f20.chunk.css.map": "/devalanreis/static/css/main.9a368f20.chunk.css.map",
+  "static/css/1.d3ca4d5a.chunk.css.map": "/devalanreis/static/css/1.d3ca4d5a.chunk.css.map",
   "index.html": "/devalanreis/index.html",
-  "precache-manifest.a827943b5b53feccb7111ce94ff0e84d.js": "/devalanreis/precache-manifest.a827943b5b53feccb7111ce94ff0e84d.js",
+  "precache-manifest.a154e665e129ed609c9c2a4a9b92ce0e.js": "/devalanreis/precache-manifest.a154e665e129ed609c9c2a4a9b92ce0e.js",
   "service-worker.js": "/devalanreis/service-worker.js"
 }
